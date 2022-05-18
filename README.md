@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitin_saini_8" target="blank"><img src="https://img.shields.io/twitter/follow/nitin_saini_8?logo=twitter&style=for-the-badge" alt="nitin_saini_8" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science (ML, DL , AI)**
+- 🌱 I’m on the way of **Data Scientist (ML, DL , AI)**
 
 - 📫 How to reach me **nitinsinghsaini888@gmail.com**
 
