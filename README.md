@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **nitinsinghsaini888@gmail.com**
 
-- 📄 Know about my experiences [https://nitinsingh8.github.io/Portfolio/CV.pdf](https://nitinsingh8.github.io/Portfolio/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
