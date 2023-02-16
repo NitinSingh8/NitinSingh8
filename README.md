@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nitin Singh</h1>
 <h3 align="center">CSE Student(2024) || Data Scientist(ML || AI) || Problem Solver || Moving towards the goal to achieve them.</h3>
 
+
+<h1>Projects : </h1>
+<ul>
+  <li>Flutter Projects - <a href = "https://github.com/NitinSingh8/NoteWord">Go To Project</a></li>
+  <li>ML Projects -  <a href = "https://github.com/NitinSingh8/Machine-Learning-Project">Go To Project</a></li>
+  <li>Python Projects -  <a href = "https://github.com/NitinSingh8/Python-Project">Go To Project</a> </li>
+</ul>
+
+
+
+
+
+
+<hr>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsingh8&label=Profile%20views&color=0e75b6&style=flat" alt="nitinsingh8" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nitin_saini_8" target="blank"><img src="https://img.shields.io/twitter/follow/nitin_saini_8?logo=twitter&style=for-the-badge" alt="nitin_saini_8" /></a> </p>
@@ -14,9 +29,9 @@
 <p align="left">
 <a href="https://twitter.com/nitin_saini_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitin_saini_8" height="30" width="40" /></a>
 <a href="https://instagram.com/nitin_saini_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitin_saini_08" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/n programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="n programmer" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nitin_saini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nitin_saini" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nitin_saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin_saini" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@coderapt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="n programmer" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nitin_saini_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nitin_saini" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Nitin__Saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin_saini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
